@@ -1,11 +1,10 @@
 ---
-title: Addition
-tags: [formatting]
-keywords: notes, tips, cautions, warnings, admonitions
-last_updated: July 3, 2016
-summary: "You can insert notes, tips, warnings, and important alerts in your content."
-sidebar: New Addition
+title: Sample 8 Topic (Product 1)
+keywords: sample
+summary: "This is just a sample topic..."
+sidebar: product1_sidebar
 permalink: p1_sample8.html
+folder: product1
 ---
 
 # New Addition
