@@ -4836,7 +4836,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
 }
 
 .navbar {
-    position: fixed;
+    position: relative;
     min-height: 50px;
     margin-bottom: 20px;
     border: 1px solid transparent
@@ -4850,7 +4850,8 @@ textarea.input-group-sm>.input-group-btn>.btn {
 
 @media (min-width:768px) {
     .navbar-header {
-        float: left
+        /**float: left**/
+        position: static
     }
 }
 
