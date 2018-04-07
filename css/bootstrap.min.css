@@ -5188,13 +5188,13 @@ textarea.input-group-sm>.input-group-btn>.btn {
     .navbar-left {
         float: left!important
     }
-    .navbar-right {
+/**    .navbar-right {
         float: right!important;
         margin-right: -15px
     }
     .navbar-right~.navbar-right {
         margin-right: 0
-    }
+    }**/
 }
 
 .navbar-default {
