@@ -58,3 +58,7 @@ entries:
     - title: Sample 7
       url: /p1_sample7.html
       output: web, pdf
+
+    - title: Sample 8
+      url: /p1_sample8.html
+      output: web, pdf
