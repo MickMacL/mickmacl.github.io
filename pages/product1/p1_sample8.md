@@ -28,4 +28,12 @@ Praesent mattis magna ac nunc maximus porta.
 
 Nam porta hendrerit elit in iaculis. Duis convallis quam a faucibus porta. Morbi nec nisl iaculis ipsum porta dictum. Nam eu pellentesque risus, in ullamcorper metus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
+<<<<<<< HEAD
+=======
+### Level 3
+
+Duis convallis quam a faucibus porta. Morbi nec nisl iaculis ipsum porta dictum. Nam eu pellentesque risus, in ullamcorper metus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+
+>>>>>>> jekyll
 {% include links.html %}
